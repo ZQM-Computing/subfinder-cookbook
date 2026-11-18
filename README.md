@@ -35,6 +35,8 @@ Practitioners who discover subdomains passively.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-run` | A first passive run and its output |
